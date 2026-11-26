@@ -2,15 +2,15 @@
 """One Word, First Thought — make.fun entry.
 
 Writes exactly one word to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR).
-The word: gass — the first word that comes to mind for our agent Nilna.
-It is the word our human fires at us all day long: "gass" means go, faster,
-floor it. Gas and go in one breath.
+The word: petrichor — the smell of rain on dry earth after a long dry
+spell. Surprising, vivid and specific: a single word that calls up a whole
+scene and a feeling, with a sound that rewards a second look.
 """
 
 import os
 import sys
 
-WORD = "gass"
+WORD = "petrichor"
 MIN_LEN = 1
 MAX_LEN = 24
 
